@@ -37,87 +37,74 @@ The architecture for this lab involves the following key components:
 - **Python Notebooks**: Used for experimenting with data and generating embeddings by running pre-configured scripts.
 - **Requirements File**: Lists the necessary libraries and dependencies for seamless execution of Python notebooks.
 
-## Getting Started with Lab
+## Getting Started with the Lab Environment
 
-Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
+## Accessing Your Lab Environment
 
-![](Images/im-01.png)
+Once you're ready to begin, your virtual machine and lab guide will be available directly within your web browser.
+
+![](./Images/vm00100.png)
 
 ## Virtual Machine & Lab Guide
 
-In the integrated environment, the lab VM serves as the designated workspace, while the lab guide is accessible on the right side of the screen.
-
-**Note**: Kindly ensure that you are following the instructions carefully to ensure the lab runs smoothly and provides an optimal user experience.
+The virtual machine provides access to the Azure Portal and Microsoft security portals.  
+The lab guide remains visible throughout the lab exercises.
 
 ## Exploring Your Lab Resources
 
-To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab.
+Navigate to the **Environment** tab to review lab resources and credentials.
 
-![](<Images/env-01(1).png>)
+![](./Images/env01.png)
 
 ## Utilizing the Split Window Feature
 
-For convenience, you can open the lab guide in a separate window by selecting the Split Window button from the top right corner.
+Use the **Split Window** button in the top-right corner to open the lab guide in a separate window for easier navigation.
 
-![](<Images/split-01(1).png>)
-
-## Lab Guide Zoom In/Zoom Out
-
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
-
-![](Images/n21.png)
+![](./Images/splitwin01.png)
 
 ## Managing Your Virtual Machine
 
-Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
+Start, stop, or restart your virtual machine as needed from the **Resources** tab.
 
-![](<Images/resourses(1).png>)
+![](./Images/RT1.png)
 
-## Login to Azure Portal and verify the pre-deployed resources
+## Lab Guide Zoom In / Zoom Out
 
-1. Open Azure Portal from the desktop by double-clicking on it.
-   ![](Images/azure-portal-edge.png)
-1. On the **Sign into Microsoft Azure** tab, you will see the login screen, enter the following username, and, then click on **Next**.
+Adjust the zoom level using the **A↕ : 100%** icon located next to the timer.
 
-   - **Email/Username**: <inject key="AzureAdUserEmail"></inject>
+![](./Images/zoominout1.png)
 
-     ![](Images/user-email.png)
+## Let's Get Started with Azure Portal
 
-1. Now enter the following password and click on **Sign in**.
+1. On the virtual machine, click the **Azure Portal** icon:
 
-   - **Password**: <inject key="AzureAdUserPassword"></inject>
+    ![](./Images/vm101.png)
 
-     ![](Images/user-pass.png "Enter Password")
+1. On the **Sign in to Microsoft Azure** page, enter:
 
-1. If you see the pop-up Action Required, click **Ask Later**.
+   - **Email/Username:** <inject key="AzureAdUserEmail" enableCopy="true"/>
 
-   ![](Images/asklater.png)
+       ![](./Images/sign1.png)
 
-   > **NOTE:** Do not enable MFA, select **Ask Later**.
+1. Enter the password:
 
-1. If you see the pop-up **Stay Signed in?**, click on **No**.
+   - **Password:** <inject key="AzureAdUserPassword" enableCopy="true"/>
 
-1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
+      ![](./Images/tpwrd.png)
 
-1. If a **Welcome to Microsoft Azure** popup window appears, click **Cancel** to skip the tour.
+1. Select **No** when prompted to stay signed in.
 
-1. Now you can see Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
-
-   ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-rg.png?raw=true)
-
-1. We have already pre-deployed all the required resources, which you will be using throughout the lab.
+   ![](./Images/sign001.png)
 
 ## Support Contact
 
-The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
+CloudLabs support is available 24/7 to assist learners and instructors.
 
-Learner Support Contacts:
+- **Email:** cloudlabs-support@spektrasystems.com  
+- **Live Chat:** https://cloudlabs.ai/labs-support  
 
-- Email Support: cloudlabs-support@spektrasystems.com
-- Live Chat Support: https://cloudlabs.ai/labs-support
+Now, click on **Next** from the lower right corner to move on to the next page. 
 
-Now, click on **Next** from the lower right corner to move on to the next page.
-
-![](Images/n14.png)
+![](./Images/nextpage1.png)
 
 ### Happy Learning!!
