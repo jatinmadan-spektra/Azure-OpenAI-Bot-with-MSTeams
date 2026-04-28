@@ -1,6 +1,6 @@
 # Empower Knowledge Workers using Azure OpenAI with MS Teams and Azure Bot Service
 
-### Overall Estimated Duration: 4 hours
+### Overall Estimated Duration: 3 hours
 
 ## Overview
 
