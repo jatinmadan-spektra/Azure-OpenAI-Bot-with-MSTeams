@@ -8,7 +8,7 @@ In this lab, you will explore how to empower knowledge workers by integrating Az
 
 ## Objective
 
-Learn to leverage an OpenAI model to extract data and create embeddings, by end of this lab you will be able to:
+Learn to leverage an OpenAI model to extract data and create embeddings. By the end of this lab, you will be able to:
 
 - **Leveraging an OpenAI model to create extract data and create embeddings:** Use an OpenAI model to extract data and create embeddings for advanced data processing and retrieval. Participants will learn to extract data and create embeddings using an OpenAI model for advanced data analysis.
 
