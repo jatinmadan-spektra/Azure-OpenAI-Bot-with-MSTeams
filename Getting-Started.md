@@ -95,7 +95,7 @@ Adjust the zoom level using the **A↕ : 100%** icon located next to the timer.
 
        ![](./Images/sign1.png)
 
-1. Enter the Temporary Access Pass:
+1. Enter the Temporary Access Pass, and click Sign in:
 
    - **Temporary Access Pass:** <inject key="AzureAdUserPassword" enableCopy="true"/>
 
