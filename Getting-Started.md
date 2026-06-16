@@ -52,7 +52,7 @@ The architecture for this lab involves the following key components:
 
 Once you're ready to begin, your virtual machine and lab guide will be available directly within your web browser.
 
-![](./Images/vm00100.png)
+![](./Images/change-7.png)
 
 ## Virtual Machine & Lab Guide
 
@@ -63,19 +63,19 @@ The lab guide remains visible throughout the lab exercises.
 
 Navigate to the **Environment** tab to review lab resources and credentials.
 
-![](./Images/env01.png)
+![](./Images/change-2.png)
 
 ## Utilizing the Split Window Feature
 
 Use the **Split Window** button in the top-right corner to open the lab guide in a separate window for easier navigation.
 
-![](./Images/splitwin01.png)
+![](./Images/change-3.png)
 
 ## Managing Your Virtual Machine
 
 Start, stop, or restart your virtual machine as needed from the **Resources** tab.
 
-![](./Images/RT1.png)
+![](./Images/change-4.png)
 
 ## Lab Guide Zoom In / Zoom Out
 
@@ -95,9 +95,9 @@ Adjust the zoom level using the **A↕ : 100%** icon located next to the timer.
 
        ![](./Images/sign1.png)
 
-1. Enter the password:
+1. Enter the Temporary Access Pass, and click Sign in:
 
-   - **Password:** <inject key="AzureAdUserPassword" enableCopy="true"/>
+   - **Temporary Access Pass:** <inject key="AzureAdUserPassword" enableCopy="true"/>
 
       ![](./Images/tpwrd.png)
 
