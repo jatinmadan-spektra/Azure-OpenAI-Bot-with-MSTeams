@@ -114,6 +114,6 @@ CloudLabs support is available 24/7 to assist learners and instructors.
 
 Now, click on **Next** from the lower right corner to move on to the next page. 
 
-![](./Images/nextpage1.png)
+![](./Images/next.png)
 
 ### Happy Learning!!
